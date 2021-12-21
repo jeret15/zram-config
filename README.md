@@ -45,7 +45,7 @@ See [raspberrypi/linux@cef3970381](https://github.com/raspberrypi/linux/commit/c
 
 ``` shell
 sudo apt-get install git
-git clone --recurse-submodules https://github.com/ecdye/zram-config
+git clone --recurse-submodules https://github.com/jeret15/zram-config
 cd zram-config
 sudo ./install.bash
 ```
